@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cce253a1-2976-481b-b35a-7abe88d3e6c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZOtNBB2HehRndvsPYitiN9scvd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="First_program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="First_program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce253a1-2976-481b-b35a-7abe88d3e6c5" name="Default Changelist" comment="" />
+      <created>1584721925663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584721925663</updated>
+      <workItem from="1584721928624" duration="898000" />
+      <workItem from="1585051206050" duration="2848000" />
+      <workItem from="1585222678198" duration="33000" />
+      <workItem from="1585222720294" duration="3908000" />
+      <workItem from="1585319327961" duration="1865000" />
+      <workItem from="1585321349504" duration="75000" />
+      <workItem from="1585321430036" duration="1000" />
+      <workItem from="1585321478693" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="103" y="232" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585225281621">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="103" y="232" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.950@0.23.1680.950" timestamp="1585225281621" />
+    <state x="650" y="377" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585225721748">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="650" y="377" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.950@0.23.1680.950" timestamp="1585225721748" />
+    <state x="459" y="186" key="SettingsEditor" timestamp="1585321393277">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="459" y="186" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1585321393277" />
+    <state x="576" y="259" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1585225175919">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="576" y="259" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.23.1680.950@0.23.1680.950" timestamp="1585225175919" />
+    <state x="519" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1584721938848">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="519" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.950@0.23.1680.950" timestamp="1584721938848" />
+    <state x="1074" y="220" key="search.everywhere.popup" timestamp="1585067156574">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="1074" y="220" key="search.everywhere.popup/0.23.1680.950@0.23.1680.950" timestamp="1585067156574" />
+  </component>
+</project>
